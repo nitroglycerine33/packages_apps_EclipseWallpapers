@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="app_name">Eclipse Wallpapers</string>
-<string name="app_label">EclipseWallpapers</string>
+<string name="app_label">Eclipse Wallpapers</string>
 <string name="set_wallpaper">Set wallpaper</string>
 </resources>
